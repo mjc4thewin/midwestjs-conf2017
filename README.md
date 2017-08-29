@@ -1,6 +1,6 @@
 # MidwestJS Conference Mobile App using Ionic 3
 
-Gave a talk on Ionic at Midwest JS 2017. I used the Ionic CLI to scafold this app and load conference data to demonstrate some of Ionic's features
+I was invited to give an Ionic talk at Midwest JS 2017 in Minneapolis. Using the Ionic CLI and the conference template I was able to scafold this Midwest JS app to demonstrate some of Ionic's features.
 
 
 
